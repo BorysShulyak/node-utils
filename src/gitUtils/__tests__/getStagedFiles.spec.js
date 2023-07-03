@@ -1,6 +1,6 @@
 import childProcess from 'node:child_process';
 
-import getStagedFiles from '../../getStagedFiles.js';
+import getStagedFiles from '../getStagedFiles.js';
 
 jest.mock('node:util', () => ({
   ...jest.requireActual('node:util'),
