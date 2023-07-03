@@ -9,9 +9,7 @@
     "publish": "npm publish",
     "lint": "eslint . --ext .jsx,.js --quiet",
     "lint-fix": "eslint . --ext .jsx,.js --fix",
-    "test": "jest --testPathPattern='\\/__tests__\\/(?:unit|integration)/.*\\.(?:test|spec)\\.js$' --ci  2>&1",
-    "test-unit": "jest --testPathPattern='\\/__tests__\\/unit/.*\\.(?:test|spec)\\.js$' --ci 2>&1",
-    "test-integration": "echo \"Error: no test specified\""
+    "test": "jest --testPathPattern='\\/__tests__\\/.*\\.(?:test|spec)\\.js$' --ci  2>&1"
   },
   "repository": {
     "type": "git",
