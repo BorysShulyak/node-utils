@@ -1,0 +1,20 @@
+name: Lint
+
+on:
+  push:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      security-events: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Run Linting
+        run: npm lint
+        continue-on-error: true

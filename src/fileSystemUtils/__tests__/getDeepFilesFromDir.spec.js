@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 
-import getDeepFilesFromDir from '../../getDeepFilesFromDir.js';
+import getDeepFilesFromDir from '../getDeepFilesFromDir.js';
 
 describe('getDeepFilesFromDir', () => {
   const mockReaddirSync = jest.spyOn(fs, 'readdirSync');

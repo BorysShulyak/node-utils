@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Issue | Bug",
+    "color": "d73a4a",
+    "description": ""
+  },
+  {
+    "name": "Issue | CI/CD",
+    "color": "006b75",
+    "description": ""
+  },
+  {
+    "name": "Issue | Documentation",
+    "color": "006b75",
+    "description": ""
+  },
+  {
+    "name": "Issue | Feature",
+    "color": "84b6eb",
+    "description": ""
+  },
+  {
+    "name": "Issue | Refactoring",
+    "color": "84b6eb",
+    "description": ""
+  },
+  {
+    "name": "Issue | Tests",
+    "color": "84b6eb",
+    "description": ""
+  },
+  {
+    "name": "Priority | Emergency",
+    "color": "b60205",
+    "description": ""
+  },
+  {
+    "name": "Priority | High",
+    "color": "d93f0b",
+    "description": ""
+  },
+  {
+    "name": "Priority | Medium",
+    "color": "fbca04",
+    "description": ""
+  },
+  {
+    "name": "Priority | Low",
+    "color": "0e8a16",
+    "description": ""
+  },
+  {
+    "name": "Type | Fix",
+    "color": "d73a4a",
+    "description": ""
+  },
+  {
+    "name": "Type | CI/CD",
+    "color": "006b75",
+    "description": ""
+  },
+  {
+    "name": "Type | Documentation",
+    "color": "006b75",
+    "description": ""
+  },
+  {
+    "name": "Type | Feature",
+    "color": "84b6eb",
+    "description": ""
+  },
+  {
+    "name": "Type | Refactoring",
+    "color": "84b6eb",
+    "description": ""
+  },
+  {
+    "name": "Type | Tests",
+    "color": "84b6eb",
+    "description": ""
+  },
+  {
+    "name": "Type | Spike",
+    "color": "3E4B9E",
+    "description": ""
+  },
+  {
+    "name": "Workflow | Development",
+    "color": "3E4B9E",
+    "description": ""
+  },
+  {
+    "name": "Workflow | Blocked",
+    "color": "3E4B9E",
+    "description": ""
+  },
+  {
+    "name": "Workflow | On hold",
+    "color": "3E4B9E",
+    "description": ""
+  },
+  {
+    "name": "Workflow | QA",
+    "color": "3E4B9E",
+    "description": ""
+  },
+  {
+    "name": "Workflow | Review",
+    "color": "3E4B9E",
+    "description": ""
+  },
+  {
+    "name": "Workflow | Pre merged",
+    "color": "3E4B9E",
+    "description": ""
+  }
+]
