@@ -970,14 +970,14 @@
   resolved "https://registry.yarnpkg.com/@borisshulyak/eslint-config-base/-/eslint-config-base-1.0.1.tgz#fac11552e440e2e6744167e4212988ef7d23752e"
   integrity sha512-oS6BB+2TZCJLxsT5hmS7BDnW8e+fBU+yrsKir2PblgxVrsJTY2Hk3fR78z2pZq7SeXkZnT6o0Lcr2oD7j47JfQ==
 
-"@commitlint/cli@17.6.7":
-  version "17.6.7"
-  resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-17.6.7.tgz#1d352a6cfdb6b6a6ae49a959e6c13dcef1b63782"
-  integrity sha512-nzZmfO5KIOupYppn1MsnYX/80I+KDlxiwkks3CJT0XT+t34UgqGi3eSyEuzgcIjPlORk5/GMaAEiys78iLfGMg==
+"@commitlint/cli@17.7.1":
+  version "17.7.1"
+  resolved "https://registry.yarnpkg.com/@commitlint/cli/-/cli-17.7.1.tgz#f3ab35bd38d82fcd4ab03ec5a1e9db26d57fe1b0"
+  integrity sha512-BCm/AT06SNCQtvFv921iNhudOHuY16LswT0R3OeolVGLk8oP+Rk9TfQfgjH7QPMjhvp76bNqGFEcpKojxUNW1g==
   dependencies:
     "@commitlint/format" "^17.4.4"
-    "@commitlint/lint" "^17.6.7"
-    "@commitlint/load" "^17.6.7"
+    "@commitlint/lint" "^17.7.0"
+    "@commitlint/load" "^17.7.1"
     "@commitlint/read" "^17.5.1"
     "@commitlint/types" "^17.4.4"
     execa "^5.0.0"
@@ -1034,7 +1034,7 @@
     "@commitlint/types" "^17.4.4"
     semver "7.5.4"
 
-"@commitlint/lint@^17.6.7":
+"@commitlint/lint@^17.7.0":
   version "17.7.0"
   resolved "https://registry.yarnpkg.com/@commitlint/lint/-/lint-17.7.0.tgz#33f831298dc43679e4de6b088aea63d1f884c7e7"
   integrity sha512-TCQihm7/uszA5z1Ux1vw+Nf3yHTgicus/+9HiUQk+kRSQawByxZNESeQoX9ujfVd3r4Sa+3fn0JQAguG4xvvbA==
@@ -1044,7 +1044,7 @@
     "@commitlint/rules" "^17.7.0"
     "@commitlint/types" "^17.4.4"
 
-"@commitlint/load@^17.6.7", "@commitlint/load@^17.7.1":
+"@commitlint/load@^17.7.1":
   version "17.7.1"
   resolved "https://registry.yarnpkg.com/@commitlint/load/-/load-17.7.1.tgz#0723b11723a20043a304a74960602dead89b5cdd"
   integrity sha512-S/QSOjE1ztdogYj61p6n3UbkUvweR17FQ0zDbNtoTLc+Hz7vvfS7ehoTMQ27hPSjVBpp7SzEcOQu081RLjKHJQ==
