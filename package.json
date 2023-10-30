@@ -16,7 +16,7 @@
     "@borisshulyak/eslint-config-base": "1.0.1",
     "@commitlint/cli": "17.7.1",
     "@commitlint/config-conventional": "17.7.0",
-    "@commitlint/prompt-cli": "17.7.1",
+    "@commitlint/prompt-cli": "18.2.0",
     "eslint": "8.34.0",
     "prettier": "2.8.4",
     "eslint-config-airbnb-base": "15.0.0",
